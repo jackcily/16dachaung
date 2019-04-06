@@ -46,7 +46,7 @@ systemctl restart apache2 # 一定要重启服务
 
 - solr 查询结果截图
 
-	![20190406-solr查询结果截图](D:\大创文件\img\20190406-solr查询结果截图.png)
+	![20190406-solr查询结果截图](img/20190406-solr查询结果截图.png)
 
 - php完成的功能
 
